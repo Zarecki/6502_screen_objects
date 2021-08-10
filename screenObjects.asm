@@ -14,8 +14,8 @@
     seg.u Variables
     org $80
 
-Player0Height ds 1      ;Defines one space for player 0 height
-Player1Height ds 1
+    Player0Height ds 1      ;Defines one space for player 0 height
+    Player1Height ds 1
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Start the ROM code segment                                                                     ;;
